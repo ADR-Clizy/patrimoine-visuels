@@ -13,6 +13,14 @@ liens externes pénalisent la portée). Éviter le funnel DM sauf besoin spécif
 
 Cadence actuelle : mardi + jeudi, 8h30.
 
+## Méthode de rédaction des posts
+
+Voir `PLAYBOOK-POSTS.md` — synthèse de 7 posts de pairs CGP (Claire Pinçon, Pauline
+Gonzales, Morgane Ernoult) que Karine apprécie : mécaniques de rédaction, codes
+stylistiques communs, bloc signature à réutiliser, grille de sujets par mécanique.
+À consulter systématiquement avant de rédiger un nouveau post texte ou de proposer
+un sujet.
+
 ## Contexte réseau (à surveiller, pas à répéter comme diagnostic à chaque post)
 
 ~3200 abonnés, majoritairement issus de connexions automatisées peu qualifiées →
