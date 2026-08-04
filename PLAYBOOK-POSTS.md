@@ -107,24 +107,25 @@ qui n'est plus optimal (PEL, vieux contrats non arbitrés, sur-épargne sur livr
 C'est la mécanique la plus proche de ce que Karine a déjà amorcé avec sa slide "L'exception
 du LEP" — directement réutilisable.
 
-## Bloc signature à fixer pour Karine
-
-À construire une fois, valider avec elle, puis réutiliser identique sur chaque post
-(sur le modèle observé chez Pauline et Morgane) :
+## Bloc signature — validée le 2026-08-04, à réutiliser identique sur chaque post
 
 ```
-[emoji] Je suis Karine Sevin, Conseillère en Gestion de Patrimoine
-[emoji] [proposition de valeur — reprendre "approche humaine, sans honoraires,
-         sans engagement" de sa bio LinkedIn]
-[emoji] [à qui elle s'adresse / champs d'intervention : épargne, immobilier,
-         transmission, prévoyance]
-[emoji] [CTA — vers le bouton "Prendre un rendez-vous" du profil plutôt qu'un
-         lien externe en post, cf. CLAUDE.md]
+👋 Enchantée, moi c'est Karine.
+🤝 J'aide les gens à investir avec une stratégie claire et adaptée.
+🌱 J'accompagne aussi celles et ceux qui souhaitent se lancer dans le conseil financier.
+📅 Une question sur votre situation ? Le bouton "Prendre un rendez-vous" est juste au-dessus 👆
 ```
 
-À valider avec Karine avant premier usage : le wording exact de chaque ligne, et si
-elle veut un lead magnet type "audit patrimonial gratuit" (friction plus basse) en
-plus du CTA RDV direct.
+Reprend sa signature historique (double positionnement client + recrutement/développement
+d'équipe, toujours d'actualité — elle poste occasionnellement pour développer son équipe).
+Puces emoji contextuelles plutôt que des chiffres 1️⃣2️⃣ : jugé plus chaleureux que la
+numérotation, qui fait trop procédural. CTA ajouté en dernière ligne (absent de
+l'ancienne version) : pointe vers le bouton "Prendre un rendez-vous" du profil plutôt
+qu'un lien externe en post, conformément à CLAUDE.md.
+
+La ligne 🌱 (recrutement) peut être retirée ponctuellement sur les posts 100% orientés
+client si elle alourdit le propos — à l'inverse, sur un post de recrutement, elle peut
+passer en premier.
 
 ## Grille d'idéation de sujets par mécanique (pour Karine, patrimoine/PACA)
 
