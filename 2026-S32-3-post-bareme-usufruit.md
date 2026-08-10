@@ -1,6 +1,11 @@
 post prévu : mardi 2026-08-11, 8h30
 mécanique : repère chiffré / tableau de référence (cf. PLAYBOOK-POSTS.md)
-visuel joint : 2026-S32-3-bareme-usufruit-0e4a.png
+visuel à joindre en pièce jointe du post (pas dans le texte) : 2026-S32-3-bareme-usufruit-0e4a.png
+
+Sur LinkedIn, le visuel s'attache séparément et s'affiche sous le texte — il ne
+s'insère jamais au milieu. Le bloc ci-dessous est donc le texte intégral du post,
+à copier-coller tel quel dans la zone de rédaction, puis joindre l'image en pièce
+jointe juste avant de publier.
 
 ---
 
@@ -12,9 +17,7 @@ La réponse ne dépend ni du prix du marché, ni de l'avis d'un expert.
 
 Elle dépend d'un seul chiffre : ton âge au moment de la donation.
 
-Voici le barème fiscal officiel (article 669 du CGI), obligatoire pour calculer les droits de donation ou de succession sur un bien démembré — inchangé depuis 2004 :
-
-[visuel : tableau du barème]
+Voici le barème fiscal officiel (article 669 du CGI), obligatoire pour calculer les droits de donation ou de succession sur un bien démembré — inchangé depuis 2004 👇
 
 Concrètement, sur un bien de 300 000 € :
 
