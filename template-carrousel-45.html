@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  html, body {
+    margin: 0; padding: 0;
+    width: 1080px; height: 1350px;
+    font-family: -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  }
+  .card {
+    width: 1080px; height: 1350px;
+    background:
+      radial-gradient(circle at 15% 8%, rgba(120,80,200,0.35) 0%, rgba(120,80,200,0) 45%),
+      radial-gradient(circle at 92% 90%, rgba(50,225,196,0.30) 0%, rgba(50,225,196,0) 45%),
+      linear-gradient(135deg, #2B1750 0%, #3C2168 30%, #1C4A4A 68%, #0A2E2B 100%);
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 74px 74px 64px;
+    overflow: hidden;
+  }
+  .bracket {
+    position: absolute;
+    width: 70px; height: 70px;
+    border: 5px solid #32E1C4;
+    border-radius: 14px;
+    z-index: 5;
+  }
+  .tl { top: 46px; left: 46px; border-right: none; border-bottom: none; }
+  .br { bottom: 46px; right: 46px; border-left: none; border-top: none; }
+
+  .title {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 58px;
+    font-weight: 800;
+    line-height: 1.2;
+    color: #FFFFFF;
+    letter-spacing: -0.5px;
+  }
+  .hl {
+    display: inline-block;
+    background: #32E1C4;
+    color: #12233F;
+    padding: 4px 16px;
+    border-radius: 10px;
+    transform: rotate(-1.1deg);
+  }
+
+  .subtitle {
+    margin-top: 26px;
+    text-align: center;
+    font-size: 29px;
+    color: #E3DEF2;
+    font-weight: 500;
+  }
+
+  .spacer {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .panel {
+    width: 87%;
+    height: 700px;
+    background: linear-gradient(165deg, #FFFFFF 0%, #EAFBF7 100%);
+    border-radius: 34px;
+    box-shadow: 0 34px 60px -24px rgba(6, 10, 25, 0.55);
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+  }
+  .col {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 46px 30px;
+    position: relative;
+  }
+  .col.left { border-right: 2px solid rgba(20,40,50,0.09); }
+
+  .icon { font-size: 92px; margin-bottom: 0; line-height: 1; }
+
+  .pill {
+    display: inline-block;
+    padding: 13px 28px;
+    border-radius: 999px;
+    font-weight: 800;
+    font-size: 26px;
+    color: #FFFFFF;
+    margin-bottom: 0;
+  }
+  .teal .pill { background: #17B8A6; }
+  .coral .pill { background: #FF7A5C; }
+
+  .textgroup { display: flex; flex-direction: column; gap: 16px; }
+  .line1 {
+    font-size: 27px;
+    color: #6B7280;
+    margin-bottom: 0;
+  }
+  .line2 {
+    font-size: 42px;
+    font-weight: 800;
+    color: #182437;
+    line-height: 1.22;
+  }
+</style>
+</head>
+<body>
+  <div class="card">
+    <div class="bracket tl"></div>
+    <div class="bracket br"></div>
+
+    <div class="title">
+      DÉMEMBRER UN BIEN<br>
+      <span class="hl">CE N'EST PAS LE COMPLIQUER.</span>
+    </div>
+    <div class="subtitle">C'est séparer l'usage de la propriété.</div>
+
+    <div class="spacer">
+    <div class="panel">
+      <div class="col left teal">
+        <div class="icon">🌳</div>
+        <div class="pill">NU-PROPRIÉTAIRE</div>
+        <div class="textgroup"><div class="line1">garde l'arbre</div>
+        <div class="line2">Le bien,<br>sur le papier</div></div>
+      </div>
+      <div class="col coral">
+        <div class="icon">🍎</div>
+        <div class="pill">USUFRUITIER</div>
+        <div class="textgroup"><div class="line1">récolte les fruits</div>
+        <div class="line2">L'usage<br>et les revenus</div></div>
+      </div>
+    </div>
+    </div>
+  </div>
+</body>
+</html>
