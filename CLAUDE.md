@@ -89,10 +89,10 @@ CTA propre au post et l'éventuel disclaimer de simulation), séparé par une
 ligne vide :
 
 ```
-👋 Enchantée, moi c'est Karine.
+Enchantée, moi c'est Karine.
 🤝 J'aide les gens à investir avec une stratégie claire et adaptée.
 🌱 J'accompagne aussi celles et ceux qui souhaitent se lancer dans le conseil financier.
-📅 Une question sur ta situation ? Le bouton "Prendre un rendez-vous" est juste au-dessus 👆
+📅 Une question sur ta situation ? Le bouton "Prendre un rendez-vous" est juste au-dessus
 ```
 
 Note : cette signature est au tutoiement ("ta situation") alors que le
