@@ -76,8 +76,11 @@ performent chez Pauline Gonzales (conseillère en gestion de patrimoine) :
   un chiffre projeté (taux, simulation) — transparence obligatoire sur les
   hypothèses de calcul.
 
-Ce fichier .txt est **envoyé à l'utilisateur** (via SendUserFile), il n'est
-**pas committé** dans ce dépôt (qui n'archive que les visuels).
+**Format de livraison par défaut : un bloc de code dans le message de
+chat** (fence markdown triple-backtick), pas un fichier .txt envoyé en
+pièce jointe — sur mobile, le bloc de code a un bouton "copier" en un tap,
+plus pratique qu'un fichier à ouvrir/télécharger. Ne pas committer ce
+texte dans le dépôt (qui n'archive que les visuels).
 
 ## Cadence
 
