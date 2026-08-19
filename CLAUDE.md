@@ -10,19 +10,25 @@ Uniquement des PNG finaux, nommés `2026-S{semaine}-{n}-{hash4}.png`
 les slides d'un même post ; `{hash4}` = 4 caractères hex, un par slide).
 Aucune source (HTML, script) n'est committée — seul le rendu final.
 
-## Format par défaut : carrousel 2 slides
+## Choix du format : à adapter à chaque sujet, pas un défaut fixe
 
-**Le carrousel (2 images) performe mieux qu'un visuel seul — c'est le
-format par défaut**, sauf demande explicite contraire. Structure type :
+Il n'y a **pas de format par défaut**. À chaque nouveau post, évaluer le
+sujet et proposer le format le plus adapté, en expliquant pourquoi. Deux
+familles :
 
-- **Slide 1 (accroche)** : chiffre choc ou punchline seule qui arrête le
-  scroll (ex. gabarit "2 cartes stat" ou citation).
-- **Slide 2 (explication)** : gabarit "ce qu'on croit / ce qui est vrai"
-  qui justifie ou approfondit l'accroche de la slide 1, cohérent avec le
-  même sujet (pas deux sujets différents dans un même carrousel).
+- **Visuel seul (1 slide)** : quand l'idée tient en une seule punchline ou
+  un seul chiffre qui se suffit à lui-même, sans besoin de justification —
+  citation, aphorisme, chiffre choc autonome. Ajouter une 2e slide dans ce
+  cas dilue l'impact au lieu de l'augmenter.
+- **Carrousel (2 slides ou plus)** : quand le sujet a une structure
+  "accroche → explication" (chiffre choc puis pourquoi, ou mythe puis
+  réalité), quand il y a plusieurs points/étapes à dérouler (ex. "les 5
+  piliers de X"), ou quand on veut délibérément jouer sur le swipe pour la
+  rétention. Slides cohérentes entre elles, même sujet du début à la fin
+  (jamais deux thèmes différents dans un même carrousel).
 
-Dans la légende, ajouter une invitation à swiper après l'accroche
-(ex. "(swipe pour comprendre pourquoi ➡️)").
+Si le carrousel est retenu, ajouter dans la légende une invitation à
+swiper après l'accroche (ex. "(swipe pour comprendre pourquoi ➡️)").
 
 ## Charte graphique (identité visuelle établie, à respecter à l'identique)
 
