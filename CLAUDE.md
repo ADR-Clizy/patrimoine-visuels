@@ -30,6 +30,15 @@ familles :
 Si le carrousel est retenu, ajouter dans la légende une invitation à
 swiper après l'accroche (ex. "(swipe pour comprendre pourquoi ➡️)").
 
+**Carrousel → toujours fournir aussi un PDF.** LinkedIn n'affiche un
+carrousel swipeable que via un post "document" (PDF, PPT ou DOC) — importer
+plusieurs images séparées ne donne pas un carrousel sur LinkedIn (contrairement
+à Instagram). Donc pour tout post en carrousel : générer un PDF multi-pages
+(une slide = une page, même ordre que les PNG) à partir des PNG déjà rendus
+(`PIL: im1.save(path, save_all=True, append_images=[im2, ...])`), le committer
+dans le dépôt avec le même nom que les slides (`2026-S{semaine}-{n}-{hash4}.pdf`),
+et l'envoyer à l'utilisatrice avec les PNG.
+
 ## Charte graphique (identité visuelle établie, à respecter à l'identique)
 
 - Format : carré 1200x1200, PNG RGB (pas d'alpha).
