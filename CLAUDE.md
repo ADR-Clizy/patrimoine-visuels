@@ -82,6 +82,23 @@ pièce jointe — sur mobile, le bloc de code a un bouton "copier" en un tap,
 plus pratique qu'un fichier à ouvrir/télécharger. Ne pas committer ce
 texte dans le dépôt (qui n'archive que les visuels).
 
+### Signature (à ajouter systématiquement en fin de légende, tous posts)
+
+Toujours ajouter ce bloc, verbatim, à la toute fin de la légende (après le
+CTA propre au post et l'éventuel disclaimer de simulation), séparé par une
+ligne vide :
+
+```
+👋 Enchantée, moi c'est Karine.
+🤝 J'aide les gens à investir avec une stratégie claire et adaptée.
+🌱 J'accompagne aussi celles et ceux qui souhaitent se lancer dans le conseil financier.
+📅 Une question sur ta situation ? Le bouton "Prendre un rendez-vous" est juste au-dessus 👆
+```
+
+Note : cette signature est au tutoiement ("ta situation") alors que le
+corps du post est généralement au vouvoiement — c'est volontaire (choix de
+Karine), ne pas essayer d'harmoniser le registre.
+
 ## Cadence
 
 Publication le jeudi matin. Toujours vérifier le numéro de semaine ISO
