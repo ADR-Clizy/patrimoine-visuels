@@ -6,9 +6,23 @@ un cabinet de gestion de patrimoine (contenu en français).
 ## Contenu du dépôt
 
 Uniquement des PNG finaux, nommés `2026-S{semaine}-{n}-{hash4}.png`
-(`{n}` = numéro du post publié cette semaine-là, `{hash4}` = 4 caractères
-hex aléatoires). Aucune source (HTML, script) n'est committée — seul le
-rendu final.
+(`{n}` = numéro du post publié cette semaine-là, identique pour toutes
+les slides d'un même post ; `{hash4}` = 4 caractères hex, un par slide).
+Aucune source (HTML, script) n'est committée — seul le rendu final.
+
+## Format par défaut : carrousel 2 slides
+
+**Le carrousel (2 images) performe mieux qu'un visuel seul — c'est le
+format par défaut**, sauf demande explicite contraire. Structure type :
+
+- **Slide 1 (accroche)** : chiffre choc ou punchline seule qui arrête le
+  scroll (ex. gabarit "2 cartes stat" ou citation).
+- **Slide 2 (explication)** : gabarit "ce qu'on croit / ce qui est vrai"
+  qui justifie ou approfondit l'accroche de la slide 1, cohérent avec le
+  même sujet (pas deux sujets différents dans un même carrousel).
+
+Dans la légende, ajouter une invitation à swiper après l'accroche
+(ex. "(swipe pour comprendre pourquoi ➡️)").
 
 ## Charte graphique (identité visuelle établie, à respecter à l'identique)
 
