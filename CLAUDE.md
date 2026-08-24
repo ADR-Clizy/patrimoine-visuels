@@ -110,6 +110,10 @@ Karine), ne pas essayer d'harmoniser le registre.
 
 ## Cadence
 
-Publication le jeudi matin. Toujours vérifier le numéro de semaine ISO
-réel avant de nommer le fichier (`date +%V`), ne pas se fier au dernier
-post committé si plusieurs semaines ont été sautées.
+Publication **2 fois par semaine, tous les mardis et jeudis matin** — ce
+n'est pas exceptionnel, c'est le rythme normal. `{n}` dans le nom de
+fichier est le numéro chronologique du post dans la semaine (1 = premier
+post publié, généralement le mardi ; 2 = le second, généralement le
+jeudi). Toujours vérifier le numéro de semaine ISO réel avant de nommer
+le fichier (`date +%V`), ne pas se fier au dernier post committé si
+plusieurs semaines ou publications ont été sautées.
