@@ -73,6 +73,18 @@ et l'envoyer à l'utilisatrice avec les PNG.
   `#afa6bb` (légendes secondaires).
 - Polices (Google Fonts) : **Poppins** 700-900 pour titres/chiffres,
   **Nunito** 600-700 pour légendes et texte courant.
+- **Lisibilité et densité — erreur récurrente à ne pas reproduire** : sur
+  mobile, un visuel affiché en miniature avec du texte trop petit ou trop
+  d'espace mort se lit mal et perd en impact. Toujours composer pour que
+  le contenu occupe l'espace utile du carré (entre les équerres, environ
+  y=140 à y=1060) plutôt que de laisser un tiers du bas vide. Tailles
+  minimales à respecter (Poppins/Nunito, canvas 1200x1200) : titre
+  principal ≥ 48px, corps/sous-titre ≥ 26px, libellé de détail dans une
+  carte ≥ 22px, rien en dessous de 20px nulle part. Pour une liste de
+  items (checklist, grille de référence), dimensionner les cartes pour
+  qu'elles remplissent la hauteur disponible plutôt que de garder des
+  cartes compactes avec du vide en dessous — quitte à réduire le nombre
+  d'items si le sujet ne justifie pas de les agrandir davantage.
 - Formats de carte déjà utilisés : citation/punchline seule, comparatif
   "ce qu'on croit / ce qui est vrai" en 2 colonnes, comparatif chiffré en
   2 cartes stat (label turquoise en haut, 2 chiffres avec soulignement
