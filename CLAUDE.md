@@ -26,6 +26,25 @@ familles :
   piliers de X"), ou quand on veut délibérément jouer sur le swipe pour la
   rétention. Slides cohérentes entre elles, même sujet du début à la fin
   (jamais deux thèmes différents dans un même carrousel).
+- **Grille de référence / auto-évaluation (1 visuel dense)** : le format
+  qui performe le mieux chez les consœurs/confrères du secteur (ex.
+  Pauline Gonzales) n'est pas la punchline mais l'**outil dans lequel le
+  lecteur se cherche** — barème "combien devriez-vous avoir de côté selon
+  vos revenus", grille d'auto-évaluation avec scoring ("8-10 points :
+  vous maîtrisez..."), tableau comparatif chiffré (cash vs crédit, droits
+  de succession selon montant/nombre d'enfants), schéma de répartition
+  patrimoniale. Le ressort psychologique : donner un repère concret pour
+  que chacun se situe, pas juste une affirmation à lire passivement.
+  Adapté quand le sujet a une dimension quantitative/personnelle
+  ("où j'en suis par rapport à la moyenne, à ce que je devrais avoir").
+
+**Important : s'inspirer du mécanisme, jamais du contenu ni du visuel
+d'un post déjà publié par quelqu'un d'autre.** Reprendre l'idée générale
+(un barème, une grille de score, un tableau croisé) est légitime ; copier
+les mêmes chiffres, le même tableau ou la charte graphique d'un autre
+cabinet (rouge/beige façon papier pour Pauline Gonzales, par exemple) ne
+l'est pas — toujours un sujet et des chiffres différents, toujours dans
+la charte graphique de Karine (voir plus bas).
 
 Si le carrousel est retenu, ajouter dans la légende une invitation à
 swiper après l'accroche (ex. "(swipe pour comprendre pourquoi ➡️)").
