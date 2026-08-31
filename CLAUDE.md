@@ -10,6 +10,40 @@ Uniquement des PNG finaux, nommés `2026-S{semaine}-{n}-{hash4}.png`
 les slides d'un même post ; `{hash4}` = 4 caractères hex, un par slide).
 Aucune source (HTML, script) n'est committée — seul le rendu final.
 
+## Objectif de chaque post : donner envie de s'abonner et de prendre RDV
+
+Un post n'est pas qu'informatif. Le but final est toujours que le lecteur
+ait envie (a) de s'abonner et (b) de prendre rendez-vous avec Karine. Un
+post qui n'arrête pas le scroll ne convertit jamais — donc **l'accroche
+(titre du visuel ET première ligne de la légende) doit toujours être
+optimisée pour la performance**, jamais juste "correcte". Se challenger
+systématiquement, ne pas valider la première version venue.
+
+Techniques à mobiliser pour l'accroche (utiliser au moins une, idéalement
+en combiner deux) :
+
+- **Question directe qui force une auto-évaluation** ("Vous connaissez
+  votre TMI ?") plutôt qu'une affirmation plate — crée une micro-décision
+  (je sais / je ne sais pas) qui engage avant même la réponse.
+- **Remise en cause d'une croyance commune** ("X n'est pas Y.") — crée
+  une tension à résoudre, pousse à lire la suite pour comprendre.
+- **Chiffre concret et spécifique** plutôt que vague ("11 500 €" plutôt
+  que "beaucoup d'argent") — la précision rend crédible et arrête le
+  scroll.
+- **Enjeu personnel immédiat** : le lecteur doit sentir que ça le
+  concerne lui, maintenant, pas "les gens" en général.
+
+**Jamais une accroche purement déclarative/informative** ("X permet de
+Y.", "Voici les priorités selon Z.") — ça se lit passivement et n'arrête
+pas le pouce. Toujours une tension, une question, ou un contraste.
+
+Pour la légende : terminer le corps du post (avant la signature) par une
+question ouverte qui invite à l'échange, jamais commerciale. Avant de
+valider un post, se demander : "si je ne connaissais pas Karine, cette
+accroche me donnerait-elle envie de lire la suite, et ce post me
+donnerait-il envie de prendre RDV ?" Si non, retravailler l'accroche
+avant de générer le visuel.
+
 ## Choix du format : à adapter à chaque sujet, pas un défaut fixe
 
 Il n'y a **pas de format par défaut**. À chaque nouveau post, évaluer le
